@@ -1,7 +1,10 @@
 # Tarea 1
-Descripcion: Hacer una aplicacion que pida tu edad y hacer un ciclo del 1 al 100 y que se detenga en tu edad
 
-```
+Descripcion: Hacer una aplicacion que pida tu edad y hacer un ciclo del 1 al 100 y que se detenga en tu edad.
+
+## Ejemplo:
+
+```code
 Escribe tu edad: 12
 1
 2
@@ -14,5 +17,5 @@ Escribe tu edad: 12
 9
 10
 11
-Tu edad es de 12 años
+Tienes 12 años
 ```
