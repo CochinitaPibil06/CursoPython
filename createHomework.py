@@ -33,7 +33,7 @@ else:
 
     # Open homework fileMD and write description
     with open(os.path.join(homeworkPath, fileMD), 'w') as file:
-        file.write('# ' + folder + '\n')
+        file.write('# ' + folder + '\n\n')
         file.write('Descripcion: ' + description + '\n' + '\n')
         file.write('## Ejemplo: ' + '\n' + '\n')
         file.write('```code' + '\n')
