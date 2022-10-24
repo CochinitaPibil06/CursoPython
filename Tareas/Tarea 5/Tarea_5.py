@@ -1,23 +1,24 @@
 def resta(num1, num2):
-    print(num1 - num2)
+    print(num1, " - ", num2, " = ", num1-num2)
+    # print(num1 - num2)
 
 def multiplicacion(num1, num2):
-    print(num1 * num2)
+    print(num1, "*", num2, "=", num1*num2)
 
 def divicion(num1, num2):
-    print(num1 / num2)
+    print(num1, "/", num2, "=", num1 / num2)
 
 def suma(num1, num2):
-    print(num1 + num2)
+    print(num1,"+", num2, "=", num1 + num2)
 
 def AlCuadrado(num1):
-    print(num1**2)
+    print(num1, "^", 2, "=", num1**2)
 
 def AlCubo(num1):
-    print(num1**3)
+    print(num1, "^", 3, "=", num1**3)
 
 def Residuo(num1,num2):
-    print(num1%num2)
+    print(num1, "%", num2, "=", num1%num2)
 
 #Inicio de bucle
 while True:
@@ -70,4 +71,4 @@ while True:
 
 
 #Fin de bucle
-print("adios :v")
+print("Hasta pronto")
