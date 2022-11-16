@@ -1,0 +1,14 @@
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\bin\Debug\netcoreapp3.1\Tarea_1.exe
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\bin\Debug\netcoreapp3.1\Tarea_1.deps.json
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\bin\Debug\netcoreapp3.1\Tarea_1.runtimeconfig.json
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\bin\Debug\netcoreapp3.1\Tarea_1.runtimeconfig.dev.json
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\bin\Debug\netcoreapp3.1\Tarea_1.dll
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\bin\Debug\netcoreapp3.1\Tarea_1.pdb
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\obj\Debug\netcoreapp3.1\Tarea_1.csproj.AssemblyReference.cache
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\obj\Debug\netcoreapp3.1\Tarea_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\obj\Debug\netcoreapp3.1\Tarea_1.AssemblyInfoInputs.cache
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\obj\Debug\netcoreapp3.1\Tarea_1.AssemblyInfo.cs
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\obj\Debug\netcoreapp3.1\Tarea_1.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\obj\Debug\netcoreapp3.1\Tarea_1.dll
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\obj\Debug\netcoreapp3.1\Tarea_1.pdb
+C:\Users\enriq\Documents\GitHub\CursoPython\Tarea_1\Tarea_1\obj\Debug\netcoreapp3.1\Tarea_1.genruntimeconfig.cache
