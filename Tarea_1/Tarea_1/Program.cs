@@ -8,6 +8,7 @@ namespace Tarea_1
         {
             Console.Write("Escribe tu edad: ");
             int age = Convert.ToInt32(Console.ReadLine());
+            //int age2 = Int32.Parse(Console.ReadLine());
 
             if(age > 100)
             {
