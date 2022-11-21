@@ -6,8 +6,34 @@ namespace Tarea_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            bool ciclo = true;
+
+            while (ciclo)
+            {
+                Console.Write("Escribe algo: ");
+                string valor = Console.ReadLine();
+
+                if (salir(valor))
+                {
+                    ciclo = false;
+                }
+                else
+                {
+                    Console.WriteLine(valor);
+                }
+            }
+
+            Console.WriteLine("fin del codigo");
         }
 
+        static bool salir(string valor)
+        {
+            bool validacion = false;
+
+            if (valor == "salir")
+                validacion = true;
+
+            return validacion;
+        }
     }
 }
